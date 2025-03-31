@@ -1,7 +1,11 @@
 # Dataset
-* The TMDb movie data (cleaned from original data on Kaggle).
-* This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
+This dataset is derived from the TMDb movie data, originally sourced from Kaggle and cleaned for analysis. It includes details on 10,000 movies, covering aspects such as user ratings and revenue.
 
 Libraries : 
-* All the codes are written on Jupyternotebook. The python libraries include numpy, pandas, matplotlib and seaborn. Please make sure you
-have all these libraries installed. 
+* The analysis is conducted using Jupyter Notebook, with the following Python libraries:
+
+* NumPy for numerical operations
+
+* Pandas for data manipulation
+
+* Matplotlib and Seaborn for data visualization
